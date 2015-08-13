@@ -1,2 +1,2 @@
 # TestRepository
-テスト用レポジトリ
+テスト
